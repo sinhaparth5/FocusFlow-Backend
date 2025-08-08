@@ -36,3 +36,7 @@ lerna-debug.log*
 !.dev.vars.example
 .env*
 !.env.example
+
+# IDEs
+*.vscode
+*.idea
